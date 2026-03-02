@@ -28,19 +28,25 @@ To design a cost-effective and sustainable solar-powered borehole pumping system
 * Pump Efficiency     : 32.6%   
 
 ✔ System meets irrigation demand using solar energy
+
 ✔ Optimized design reduces energy losses
 
 🛠 Tools & Software
+
 * AutoCAD
 * PVsyst
+  
 🚀 Key Engineering Highlights
 
 * Optimized PV sizing for pump load
 * Efficient energy utilization
 * Designed for off-grid rural use
 * Reduced reliance on diesel systems
+* 
 🌍 Location
+
 Nakuru, Kenya
 
 📬 Contact
+
 gachiesam02@gmail.com

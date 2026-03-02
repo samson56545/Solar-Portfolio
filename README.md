@@ -1,6 +1,9 @@
 ☀️ Samson Gachie | Solar Design Engineer
+
 Designing efficient, reliable, and sustainable solar PV systems using engineering principles and simulation tools.
+
 👨‍💼 About Me
+
 I am a Solar Design Engineer specializing in:
 * Solar PV system sizing and optimization
 * Energy yield analysis using PVsyst

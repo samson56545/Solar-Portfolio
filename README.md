@@ -42,7 +42,7 @@ To design a cost-effective and sustainable solar-powered borehole pumping system
 * Efficient energy utilization
 * Designed for off-grid rural use
 * Reduced reliance on diesel systems
-* 
+  
 🌍 Location
 
 Nakuru, Kenya
